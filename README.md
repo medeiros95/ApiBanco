@@ -1,6 +1,20 @@
 
-<h3 align="center">Esse projeto consiste no desenvolvimento de uma Api de um banco (financeira).<br></h3>
-<h3>Foi feito com intuito de exercitar desenvolvimento Back-End e por em prática o conhecimento aprendido, nessa api temos diversas funões como:</h3>
+<h3 align="left" >Esse projeto consiste no desenvolvimento de uma Api de um banco (financeira). Foi feito com intuito de exercitar desenvolvimento Back-End e por em prática o conhecimento aprendido, nessa api temos diversas funões como:</h3>
+
+<ul>
+	<li>
+	<p>Cria&ccedil;&atilde;o e edi&ccedil;&atilde;o das contas.</p>
+	</li>
+	<li>
+	<p>Acesso aos dados por confirma&ccedil;&atilde;o de senha Admin.</p>
+	</li>
+	<li>
+	<p>Saque / Transferencias / Depositos nas contas selecionadas.</p>
+	</li>
+	<li>
+	<p>Op&ccedil;&atilde;o para deletar uma conta.</p>
+	</li>
+</ul>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
